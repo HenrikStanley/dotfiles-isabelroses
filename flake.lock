@@ -34,11 +34,11 @@
         "rust-overlay": "rust-overlay"
       },
       "locked": {
-        "lastModified": 1721176539,
-        "narHash": "sha256-6/6X8f0fNlv8GQT0aBW0H1ntnxnc6jlIdexIsKN6Fwc=",
+        "lastModified": 1721262881,
+        "narHash": "sha256-oc5ettV/wqToPfUs5SVvSS0cHGyoNgCzjbIQqjiDGgg=",
         "owner": "isabelroses",
         "repo": "beapkgs",
-        "rev": "7df7c6ea670074aaba583af4faaebd2884297cfb",
+        "rev": "e16d5a0b3a3e086c425b67a9a4f0cbd8ed8ec906",
         "type": "github"
       },
       "original": {
@@ -339,11 +339,11 @@
         "nixpkgs-stable": "nixpkgs-stable"
       },
       "locked": {
-        "lastModified": 1720524665,
-        "narHash": "sha256-ni/87oHPZm6Gv0ECYxr1f6uxB0UKBWJ6HvS7lwLU6oY=",
+        "lastModified": 1721042469,
+        "narHash": "sha256-6FPUl7HVtvRHCCBQne7Ylp4p+dpP3P/OYuzjztZ4s70=",
         "owner": "cachix",
         "repo": "git-hooks.nix",
-        "rev": "8d6a17d0cdf411c55f12602624df6368ad86fac1",
+        "rev": "f451c19376071a90d8c58ab1a953c6e9840527fd",
         "type": "github"
       },
       "original": {
@@ -480,11 +480,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1720768903,
-        "narHash": "sha256-Qgyw3/lH6xD+Zzf5bkm3AhLLeugUBeSLIUDIovCUE3o=",
+        "lastModified": 1721183931,
+        "narHash": "sha256-iFXzWf+77e3fJF4hZ/luqFiq4khuXH/sL1oyQMNMYmI=",
         "owner": "isabelroses",
         "repo": "nvim",
-        "rev": "06046279ed86a19622c62c4b9e068e1b6ef5d65d",
+        "rev": "93c878439fe816491e2c841d43dbc02ad8f8d284",
         "type": "github"
       },
       "original": {
@@ -533,11 +533,11 @@
         "pre-commit-hooks": "pre-commit-hooks"
       },
       "locked": {
-        "lastModified": 1721094616,
-        "narHash": "sha256-GUH5+B1JztzDNSN1D7KbndrYSq0LWvVIJnuWKHlpN3Q=",
+        "lastModified": 1721253059,
+        "narHash": "sha256-GSzKw0vbUMpqKnOa6xJ4Fm1K/f1Cm9SrP0O8BP/6GZs=",
         "ref": "refs/heads/main",
-        "rev": "ef0de7c79f3b32f66db447220d26eae7e7c07b19",
-        "revCount": 15970,
+        "rev": "68567206f244f26f4830030c172d63c3dc9a13a1",
+        "revCount": 15972,
         "type": "git",
         "url": "https://git.lix.systems/lix-project/lix.git"
       },
@@ -672,11 +672,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1721037029,
-        "narHash": "sha256-wuHiinPG5CzCUBr9I51g+IRhP/69Y9gRVh+QnEtFnyI=",
+        "lastModified": 1721226275,
+        "narHash": "sha256-fwTSeMR1senkBPaKQyOkbkmFu3+8jj3UHoLZ3TcrOfw=",
         "owner": "nix-community",
         "repo": "NixOS-WSL",
-        "rev": "f6db2d325bdf57d39a3ae43376bdf2a020a6aad2",
+        "rev": "8ebede998342477736e0d0acdcc13ddb166a335f",
         "type": "github"
       },
       "original": {
@@ -866,11 +866,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1721096425,
-        "narHash": "sha256-9/58mnoDCyBHsJZwTg3MfgX3kgVqP/SzGMy0WnnWII8=",
+        "lastModified": 1721182796,
+        "narHash": "sha256-n6w4IhmVeRU+32vH93+8nqZtEZ0Zcy31Hg1GpH1g4Rk=",
         "owner": "oxalica",
         "repo": "rust-overlay",
-        "rev": "1c95d396d7395829b5c06bea84fb1dd23169ca42",
+        "rev": "d064703dc0657a49a17671c74b1a15ea7433e753",
         "type": "github"
       },
       "original": {
@@ -938,11 +938,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1721096425,
-        "narHash": "sha256-9/58mnoDCyBHsJZwTg3MfgX3kgVqP/SzGMy0WnnWII8=",
+        "lastModified": 1721182796,
+        "narHash": "sha256-n6w4IhmVeRU+32vH93+8nqZtEZ0Zcy31Hg1GpH1g4Rk=",
         "owner": "oxalica",
         "repo": "rust-overlay",
-        "rev": "1c95d396d7395829b5c06bea84fb1dd23169ca42",
+        "rev": "d064703dc0657a49a17671c74b1a15ea7433e753",
         "type": "github"
       },
       "original": {
